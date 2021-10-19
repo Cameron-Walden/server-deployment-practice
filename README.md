@@ -18,10 +18,11 @@ https://cameron-server-deploy-dev.herokuapp.com/repeat
 
 https://cameron-server-deploy-prod.herokuapp.com/repeat
 
-
 ***
 
 ## Embedded UML
+
+<img src = "./img/uml.jpg">
 
 ***
 
